@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karsten Horvath",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.2",
+    "grunt": "^1.0.1",
+    "jshint": "^2.9.5",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "parser": "^0.1.4",
+    "winston": "^2.4.0"
+  }
+}

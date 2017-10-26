@@ -1,0 +1,10 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:37:09 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"7:02:57 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"7:05:04 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:05:05 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:05:18 PM"}
+{"level":"verbose","message":"Create User","timestamp":"7:05:18 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:08:16 PM"}
+{"level":"verbose","message":"Get all users","timestamp":"7:08:16 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:09:04 PM"}
+{"level":"verbose","message":"Create User","timestamp":"7:09:04 PM"}
