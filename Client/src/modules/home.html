@@ -1,0 +1,9 @@
+<template>
+<nav class="navbar navbar-light bg-light">
+    <span class="navbar-brand mb-0 h1">Todos</span>
+</nav>
+<div class="container">
+<compose show.bind="showLogin" view="./components/login.html"></compose>
+<compose show.bind="!showLogin" view="./components/register.html"></compose>
+</div>
+</template>

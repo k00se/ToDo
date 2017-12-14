@@ -1,0 +1,128 @@
+{"level":"info","message":"Request from ::1","timestamp":"12:06:01 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:02 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:06:02 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:13 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:16 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:33 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:33 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:33 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:06:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:07:10 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:07:22 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:07:32 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:07:33 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:07:33 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:07:41 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:13:10 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:14:18 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:14:18 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:19:01 PM"}
+{"level":"error","message":"ValidationError: todo: Path `todo` is required.\n    at MongooseError.ValidationError (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1666:32)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1538:17\n    at validate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:784:7)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:829:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:789:19)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1536:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:139:23)\n    at C:\\Users\\~\\Documents\\ToDo\\Server\\app\\controllers\\todos.js:55:14\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:213:7)","timestamp":"12:19:01 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:19:10 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:20:01 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:24:25 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:24:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:29:28 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:29:28 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:29:28 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:29:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:29:45 PM"}
+{"level":"verbose","message":"Delete todo undefined","timestamp":"12:29:45 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:29:54 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:30:11 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:30:11 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:30:11 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"12:33:37 PM"}
+{"level":"info","message":"Loading models","timestamp":"12:33:37 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"12:33:37 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:56:19 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:56:19 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:56:23 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:56:23 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:56:50 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"12:56:51 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"12:56:51 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:00:32 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:00:32 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:00:32 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:00:44 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:00:44 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:00:50 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:00:58 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:00:58 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:04:54 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:07:24 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:12:24 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:12:25 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:12:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:13:09 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:13:09 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:27:18 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:27:18 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:27:18 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:28:45 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:28:45 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:28:53 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:28:53 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:29:43 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:29:43 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:30:00 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:30:00 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:31:32 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:31:32 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:31:46 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:31:46 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:32:39 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:32:39 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:33:21 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:33:21 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:34:13 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:34:13 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:34:27 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:34:28 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:34:28 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:52:23 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"1:52:23 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"1:52:23 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"3:23:07 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"3:23:07 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"3:28:45 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"3:28:45 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:31:07 PM"}
+{"level":"error","message":"ValidationError: todo: Path `todo` is required.\n    at MongooseError.ValidationError (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1666:32)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1538:17\n    at validate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:784:7)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:829:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\schematype.js:789:19)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\document.js:1536:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:139:23)\n    at C:\\Users\\~\\Documents\\ToDo\\Server\\app\\controllers\\todos.js:55:14\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\~\\Documents\\ToDo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:213:7)","timestamp":"5:31:07 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:34:03 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:34:04 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:34:04 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:34:46 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:34:46 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:35:03 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:35:03 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:35:17 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:35:17 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:37:08 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:37:08 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:37:25 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:37:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:38:55 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:38:55 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:38:57 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:38:57 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:39:41 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:39:41 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:39:42 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:39:42 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:39:49 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:39:49 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:39:51 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:39:51 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:40:07 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:40:11 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:40:16 PM"}
+{"level":"verbose","message":"Delete todo undefined","timestamp":"5:40:16 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"5:48:22 PM"}
+{"level":"info","message":"Loading models","timestamp":"5:48:22 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"5:48:22 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"5:48:45 PM"}
+{"level":"verbose","message":"Get all todos for 5a29da3dec0cde269cab88fc","timestamp":"5:48:45 PM"}

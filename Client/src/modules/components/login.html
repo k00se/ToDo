@@ -1,0 +1,23 @@
+<template>
+        <div class="loginForm">
+        
+                <div id="errorMsg" innerhtml.bind="loginError"></div>
+        
+                <div id="emailForm">
+                        <label for="email">Email</label>
+                        <input value.bind="email" type="email" autofocus class="form-control" id="email" placeholder="Email"></input>
+                        </div>
+                <div id="passwordForm">
+                        <label for="password">Password</label>
+                        <input value.bind="password" type="password" class="form-control" id="password" placeholder="Password"></input>
+                </div>
+                <div id="buttons">
+
+                <span class="loginLink"> <button click.trigger="login()">Login</span>
+        
+                
+
+                <span class="registerLink"><button click.trigger="showRegister()">Register</span>
+        
+        </div>
+</template>

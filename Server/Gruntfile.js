@@ -36,7 +36,7 @@ module.exports = function(grunt) {
     
       grunt.registerTask('default',  [
           'env:dev',
-        //   'jshint',
+          // 'jshint',
           'nodemon'
       ]);
        grunt.registerTask('production',  [

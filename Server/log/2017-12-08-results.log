@@ -1,0 +1,91 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:00:25 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:00:25 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:00:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:00:29 PM"}
+{"level":"error","message":"SyntaxError: Unexpected string in JSON at position 25\n    at Object.parse (native)\n    at parse (C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\~\\Documents\\ToDo\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\~\\Documents\\ToDo\\node_modules\\raw-body\\index.js:273:7)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","timestamp":"6:00:29 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:00:47 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:01:14 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:01:14 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:01:14 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:01:20 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:01:20 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:01:20 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:01:27 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:01:27 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:01:27 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:01:33 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:01:33 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:01:33 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:01:40 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:02:12 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:02:28 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:05:29 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:16:41 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:16:41 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:16:41 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:16:54 PM"}
+{"level":"verbose","message":"Get User","timestamp":"6:16:54 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:17:30 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:17:43 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:18:05 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:18:17 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:19:24 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:19:52 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:20:42 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:20:58 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:26:14 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:26:26 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:32:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:32:58 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:35:50 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:36:06 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:36:10 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:40:45 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:41:29 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:45:06 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:46:04 PM"}
+{"level":"error","message":"","timestamp":"6:46:04 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:46:30 PM"}
+{"level":"error","message":"","timestamp":"6:46:30 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:46:41 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:47:42 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:48:04 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:48:26 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:49:10 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:52:00 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:52:00 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:52:00 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:52:03 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:52:03 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:52:03 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:54:07 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:54:07 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:54:07 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:54:32 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:54:32 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:54:32 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"6:54:40 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"6:54:59 PM"}
+{"level":"info","message":"Loading models","timestamp":"6:54:59 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"6:54:59 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"7:00:43 PM"}
+{"level":"info","message":"Loading models","timestamp":"7:00:43 PM"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"7:00:44 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:00:51 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:01:56 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:02:02 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:02:06 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:02:25 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:03:37 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:03:48 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:04:02 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:04:09 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:04:37 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:07:06 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:07:18 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:07:41 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:14:34 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:19:16 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:20:04 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:28:49 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"7:29:05 PM"}

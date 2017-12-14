@@ -1,0 +1,73 @@
+template {
+    margin: 800px;
+}
+
+.template {
+    margin: 800px;
+}
+
+.rightMargin {
+    margin-right: 10px;
+    }
+
+.left margrin { 
+    margin-left: 10px;
+}
+
+
+.loginLink {
+    /* margin-top: 50px; */
+    /* padding-top: 5px; */
+}
+
+.registerLink {
+    /* margin-top: 5px; */
+    /* padding-top: 5px; */
+}
+
+.card topMargin {
+
+    background: #D93434
+}
+
+
+.list {
+    margin: auto;
+    width: 850px;
+}
+
+
+
+.loginForm {
+    /* text-align: left;
+    width: 350px; */
+}
+
+
+#buttons {
+    padding-top: 15px;
+    padding-right: 50px;
+}
+
+
+#passwordForm {
+    padding-top: 8px;
+}
+
+#emailForm {
+    padding-top: 10px;
+}
+
+
+#save {
+    padding-bottom: 10px;
+}
+
+.form-group topMargin {
+    padding-top: 100px;
+}
+
+
+.card topMargin {
+    padding-bottom: 10px;
+}
